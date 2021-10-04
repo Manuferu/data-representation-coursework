@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<lib>
+    <book category="Technical"> 
+        <title>Programming Python: Powerful Object-Oriented Programming</title> 
+        <author>Lutz, M.</author>
+        <ISBN>978-0596158101</ISBN>
+        <price>39.85€</price>
+    </book> 
+    <book category="Cookery"> 
+        <title>The Good Housekeeping Ultimate Collection: Your Essential Kitchen Companion with More Than 400 Recipes to Inspire and Impress</title> 
+        <author>Good Housekeeping</author>
+        <ISBN>978-0008395384</ISBN>
+        <price>20.00€</price>
+    </book> 
+    <book category="Cookery"> 
+        <title>Med: A Cookbook</title> 
+        <author>Roden, C.</author>
+        <ISBN>978-1529108583</ISBN>
+        <price>17€</price>
+    </book> 
+    <book category="Technical"> 
+        <title>The C Programming Language (2nd Edition)</title> 
+        <author>Kernighan, B.</author>
+        <ISBN>978-0131103627</ISBN>
+        <price>40.00€</price>
+    </book> 
+
+</lib>
